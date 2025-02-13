@@ -37,6 +37,14 @@ This is a simple Tic Tac Toe game built using Flutter. The game features two-pla
 - 🤝 In case of a full grid with no winner, the game declares a draw.
 - 🔄 Use the 'Reset All' button to clear the board and reset scores.
 
+## 📸 Screenshots
+
+Here are some screenshots of the app in action:
+
+| 📱 Home | 📱Win Dialog | 📱Draw Dialog |
+|----------- |-----------|----------- |
+| ![Demo1](assets/images/Home.jpg) | ![Demo2](assets/images/Winner.jpg) | ![Demo3](assets/images/Draw.jpg)
+
 ## 📚 Dependencies
 
 - 🐦 Flutter
@@ -56,7 +64,7 @@ This is a simple Tic Tac Toe game built using Flutter. The game features two-pla
 
 ## 📝 License
 
-📄 This project is licensed under the \*\*MIT License\*\* – see the [LICENSE]\(LICENSE) file for details.
+📄 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 
 
